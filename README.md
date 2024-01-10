@@ -41,8 +41,9 @@
 <h2 name="funcionalidades-del-proyecto"> :hammer:Funcionalidades del proyecto </h2>
 
 - `Funcionalidad`: Inserción, eliminación, listado y busqueda por ID
-#### *Documentación hecho con la herramienta de Graph Doc*
-Link: https://graphdoc.io/doc/wYFjcbAAgAts4O9s
+
+<a href="https://graphdoc.io/doc/wYFjcbAAgAts4O9s" target="_blank" name="documentacion">Documentación</a> 
+###### *Documentación hecho con la herramienta de Graph Doc*
 
 <h2 name="tecnologias-usadas"> :ballot_box_with_check: Tecnologías usadas </h2>
 
